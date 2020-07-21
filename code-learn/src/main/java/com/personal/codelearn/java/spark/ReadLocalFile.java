@@ -1,3 +1,5 @@
+package com.personal.codelearn.java.spark;
+
 import org.apache.spark.api.java.function.MapFunction;
 import org.apache.spark.sql.AnalysisException;
 import org.apache.spark.sql.Dataset;

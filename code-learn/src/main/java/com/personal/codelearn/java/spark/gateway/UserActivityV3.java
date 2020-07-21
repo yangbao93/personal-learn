@@ -6,9 +6,6 @@ import org.apache.spark.sql.SparkSession;
 import org.apache.spark.sql.functions;
 import org.apache.spark.sql.types.StructType;
 
-/**
- * 从日志平台提取网关日志，用于统计用户活跃度等指标，相比第一版增加端区分标识，端版本号等
- */
 public class UserActivityV3 {
 
     private static final String GATEWAY_APM_SRC_ID_LIST = "3150";

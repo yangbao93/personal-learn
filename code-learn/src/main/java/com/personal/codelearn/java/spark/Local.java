@@ -1,3 +1,5 @@
+package com.personal.codelearn.java.spark;
+
 import java.io.Serializable;
 
 public class Local  implements Serializable {
