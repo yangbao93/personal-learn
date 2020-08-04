@@ -104,11 +104,12 @@ public class LinkedLearn {
     public static void main(String[] args) {
         LinkedNode<Integer> node = createLinked1();
         LinkedNode<Integer> node2 = createLinked2();
-//        LinkedNode reverseList = reverseList(node);
+        LinkedNode reverseList = reverseList(node);
+        printLinked(reverseList);
 //        LinkedNode mergeList = mergeList(node, node2);
 //        printLinked(mergeList);
-        LinkedNode<Integer> node3 = createLinked1();
-        splitLinked(node3);
+//        LinkedNode<Integer> node3 = createLinked1();
+//        splitLinked(node3);
     }
 
 

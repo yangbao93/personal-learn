@@ -2,7 +2,7 @@ package com.personal.codelearn.algorithm;
 
 /**
  * @author ：yangbao
- * @description：
+ * @description：求数组内的平方,共有多少个不重复的数字
  * @version: $
  * @date ：Created in 2020/7/21 3:48 下午
  * @modified By：
