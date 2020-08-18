@@ -86,6 +86,10 @@ public class XierSort {
 
     }
 
+    /**
+     * 修改后的希尔排序
+     * @param array
+     */
     public static void shell(int[] array) {
         //希尔排序的增量
         int d = array.length;
