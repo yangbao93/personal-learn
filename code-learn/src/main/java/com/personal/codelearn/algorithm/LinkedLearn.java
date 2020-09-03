@@ -25,6 +25,11 @@ public class LinkedLearn {
     }
 
 
+    /**
+     * 链表的反转
+     * @param head 传入的参数
+     * @return 新的链表
+     */
     public static LinkedNode reverseList(LinkedNode head) {
         if (head == null) {
             return null;
@@ -38,6 +43,12 @@ public class LinkedLearn {
         return newHead;
     }
 
+    /**
+     * 链表的合并
+     * @param l1 链表1
+     * @param l2 链表2
+     * @return 合并后的链表
+     */
     public static LinkedNode mergeList(LinkedNode l1, LinkedNode l2) {
         // 边界问题处理
         if (l1 == null) {
@@ -68,6 +79,10 @@ public class LinkedLearn {
         return head.next();
     }
 
+    /**
+     * 链表的拆分
+     * @param head 链表
+     */
     public static void splitLinked(LinkedNode head) {
         if (head == null) {
             return;
