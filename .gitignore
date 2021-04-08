@@ -1,0 +1,8 @@
+/code-learn/target/classes/
+/.idea/*
+/code-learn/code-learn.iml
+/code-learn/target/*
+/code-learn/.settings/*
+code-learn/.factorypath
+code-learn/.project
+code-learn/.classpath
