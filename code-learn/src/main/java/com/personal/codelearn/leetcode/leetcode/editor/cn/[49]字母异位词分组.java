@@ -21,7 +21,7 @@ package com.personal.codelearn.leetcode.leetcode.editor.cn;
 // 👍 725 👎 0
 
 import java.util.ArrayList;
-import java.util.Collections;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -33,15 +33,10 @@ class Solution49 {
         if (strs == null) {
             return res;
         }
-        Map<List<Integer>, List<String>> resMap = new HashMap<>();
+        Map<char[], List<String>> resMap = new HashMap<>();
         for (String str : strs) {
-            char[] chars = str.toCharArray();
-            List<Integer> keyList = new ArrayList<>();
-            for (char c : chars) {
-                keyList.add(Integer.valueOf(c));
-            }
-            Collections.sort(keyList);
-
+            char[] keyList = str.toCharArray();
+            Arrays.sort(keyList);
             if (resMap.containsKey(keyList)) {
                 List<String> list = resMap.get(keyList);
                 list.add(str);
