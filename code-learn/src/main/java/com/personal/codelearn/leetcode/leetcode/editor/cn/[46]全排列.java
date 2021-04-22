@@ -23,7 +23,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution46 {
 
     public List<List<Integer>> permute(int[] nums) {
         Set<List<Integer>> result = new HashSet<>();
