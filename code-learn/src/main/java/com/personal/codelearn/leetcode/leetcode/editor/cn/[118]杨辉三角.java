@@ -28,7 +28,7 @@ import com.alibaba.fastjson.JSON;
 import org.apache.commons.collections.CollectionUtils;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution118 {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> res = new ArrayList<>();
         rev(res, numRows, 0);
