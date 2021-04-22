@@ -46,7 +46,7 @@ package com.personal.codelearn.leetcode.leetcode.editor.cn;
 
 // 2021-04-22 17:06:25
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution1013 {
     public int fib(int n) {
         if (n == 0) {
             return 0;
