@@ -44,10 +44,10 @@ class Solution53 {
         return max;
     }
 
-    public static void main(String[] args) {
-        Solution so = new Solution();
-        int[] nums = new int[] { -2, 1 };
-        System.out.println(so.maxSubArray(nums));
-    }
+    // public static void main(String[] args) {
+    //     Solution so = new Solution();
+    //     int[] nums = new int[] { -2, 1 };
+    //     System.out.println(so.maxSubArray(nums));
+    // }
 }
 // @lc code=end
