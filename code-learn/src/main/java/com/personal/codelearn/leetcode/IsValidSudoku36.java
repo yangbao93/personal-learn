@@ -1,6 +1,5 @@
 package com.personal.codelearn.leetcode;
 
-import com.sun.org.apache.regexp.internal.RE;
 import scala.Char;
 
 /**

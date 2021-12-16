@@ -24,13 +24,13 @@ public class BubbleSort {
     }
 
 
-    public static void main(String[] args) {
-        BubbleSort sort = new BubbleSort();
-        int[] sort1 = sort.sort(AlgorithmUtil.SORT_ARR_1);
-        log.info("原始数组1为:{}", JSONObject.toJSONString(AlgorithmUtil.SORT_ARR_1));
-        log.info("排序后数组1为:{}", JSONObject.toJSONString(sort1));
-        int[] sort2 = sort.sort(AlgorithmUtil.SORT_ARR_2);
-        log.info("原始数组2为:{}", JSONObject.toJSONString(AlgorithmUtil.SORT_ARR_2));
-        log.info("排序后数组2为:{}", JSONObject.toJSONString(sort2));
-    }
+    // public static void main(String[] args) {
+    //     BubbleSort sort = new BubbleSort();
+    //     int[] sort1 = sort.sort(AlgorithmUtil.SORT_ARR_1);
+    //     log.info("原始数组1为:{}", JSONObject.toJSONString(AlgorithmUtil.SORT_ARR_1));
+    //     log.info("排序后数组1为:{}", JSONObject.toJSONString(sort1));
+    //     int[] sort2 = sort.sort(AlgorithmUtil.SORT_ARR_2);
+    //     log.info("原始数组2为:{}", JSONObject.toJSONString(AlgorithmUtil.SORT_ARR_2));
+    //     log.info("排序后数组2为:{}", JSONObject.toJSONString(sort2));
+    // }
 }

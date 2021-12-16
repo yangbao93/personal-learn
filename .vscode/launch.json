@@ -1,0 +1,259 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Solution222",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.Solution222",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CodeLearnApplication",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.CodeLearnApplication",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbsLearn",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.algorithm.AbsLearn",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch GuibingSort",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.algorithm.GuibingSort",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedLearn",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.algorithm.LinkedLearn",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch PackageLearn",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.algorithm.PackageLearn",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pernum",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.algorithm.Pernum",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch QPXSort",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.algorithm.QPXSort",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.algorithm.QuickSort",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackLearn",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.algorithm.StackLearn",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch XierSort",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.algorithm.XierSort",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListLearn",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.java.ListLearn",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch LockLearn",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.java.LockLearn",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReentrantLockLearn",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.java.ReentrantLockLearn",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamLearn",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.java.StreamLearn",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch TLearn",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.java.TLearn",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadLearn",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.java.ThreadLearn",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserAnnLearn",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.java.UserAnnLearn",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadHive",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.java.spark.ReadHive",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadLocalFile",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.java.spark.ReadLocalFile",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch UserActivityV3",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.java.spark.gateway.UserActivityV3",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch CombinationSum2",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.CombinationSum2",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch CombinationSum39",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.CombinationSum39",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountAndSay38",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.CountAndSay38",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstMissingPositive",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.FirstMissingPositive",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsValidSudoku36",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.IsValidSudoku36",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestValidParentheses32",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.LongestValidParentheses32",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiplyStrings",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.MultiplyStrings",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search33",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.Search33",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInsert35",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.SearchInsert35",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchRange34",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.SearchRange34",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.Solution",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch SolveSudoku37",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.SolveSudoku37",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrappingRainWater",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.TrappingRainWater",
+            "projectName": "code-learn"
+        },
+        {
+            "type": "java",
+            "name": "Launch WildcardMatching",
+            "request": "launch",
+            "mainClass": "com.personal.codelearn.leetcode.WildcardMatching",
+            "projectName": "code-learn"
+        }
+    ]
+}
