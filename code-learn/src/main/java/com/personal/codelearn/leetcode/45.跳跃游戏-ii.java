@@ -10,7 +10,7 @@ import java.util.List;
  */
 
 // @lc code=start
-class Solution {
+class Solution45 {
 
     public int jump(int[] nums) {
         // 思路为：选择能到达位置上最大的点，直到他们的和大于等于数组长度。选择几个数字就是需要跳跃几步
@@ -35,7 +35,7 @@ class Solution {
 
     public static void main(String[] args) {
         int[] nums = new int[] { 3, 4, 3, 2, 5, 4, 3 };
-        Solution a2 = new Solution();
+        Solution45 a2 = new Solution45();
         System.out.println(a2.jump(nums));
     }
 }

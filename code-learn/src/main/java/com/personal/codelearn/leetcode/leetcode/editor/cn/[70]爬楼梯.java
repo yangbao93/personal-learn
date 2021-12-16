@@ -27,7 +27,7 @@ package com.personal.codelearn.leetcode.leetcode.editor.cn;
 
 // 2021-04-22 17:25:10
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution70 {
 
     int sum = 0;
 
@@ -48,7 +48,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution so = new Solution();
+        Solution70 so = new Solution70();
         System.out.println(so.climbStairs(44));
     }
 }
