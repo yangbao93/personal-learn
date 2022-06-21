@@ -23,7 +23,7 @@
         <scala.version>2.12.1</scala.version>
         <spark.version>2.4.3</spark.version>
         <hadoop.client.version>2.6.2</hadoop.client.version>
-        <mysql.connect.version>5.1.38</mysql.connect.version>
+        <mysql.connect.version>8.0.28</mysql.connect.version>
         <jackson.version>2.6.7</jackson.version>
         <spark.hive.version>2.4.3</spark.hive.version>
         <fastjson.version>1.2.9</fastjson.version>
